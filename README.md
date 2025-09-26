@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at LAB University of Applied Sciences. I am fairly new to programming with no previous work experience in the field. I use this GitHub profile to save my excercises.
+
 <!--
 **MikkoMajander/mikkomajander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
